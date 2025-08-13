@@ -98,4 +98,3 @@ void printBreakdown(int num)
     }
     printf(" = %d\n", sum);
 }
-
